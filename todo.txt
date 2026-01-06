@@ -1,8 +1,6 @@
 easeyou backend migration to firebase functions
-
 meeting for job
 read on gpu renting
 post new job posts at reddit
-read hacker new
 fix easeyou ui bug
 push easeyou to testers
