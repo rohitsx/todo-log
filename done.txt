@@ -1,1 +1,8 @@
 x 2026-01-06 read hacker new
+x 2026-01-06 meeting for job
+x 2026-01-06 fix easeyou ui bug
+x 2026-01-08 easeyou backend migration to firebase functions
+x 2026-01-08 push easeyou to testers
+x 2026-01-08 read on gpu renting
+x 2026-01-08 post new job posts at reddit
+x 2026-01-08 add basic easeyou settings

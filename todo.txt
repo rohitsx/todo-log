@@ -1,6 +1,2 @@
-easeyou backend migration to firebase functions
-meeting for job
-read on gpu renting
-post new job posts at reddit
-fix easeyou ui bug
-push easeyou to testers
+imporve ease seo and store listing
+meeting at 1 pm
