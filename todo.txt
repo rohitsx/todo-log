@@ -1,4 +1,3 @@
-(A) Fix payment on EaseYou. +today
 (B) Add EaseYou onboarding tutorial +today
 (C) Improve Easeyou SEO and store listing. +today
 (X) Build one software that can make money on own. +year

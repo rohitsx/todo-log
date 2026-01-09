@@ -7,3 +7,4 @@ x 2026-01-08 read on gpu renting
 x 2026-01-08 post new job posts at reddit
 x 2026-01-08 add basic easeyou settings
 x 2026-01-09 meeting at 1 pm
+x 2026-01-09 Fix payment on EaseYou. +today
