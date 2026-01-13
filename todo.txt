@@ -4,3 +4,4 @@
 (X) Build one software that can make money on own. +year
 (Y) This is the time to build, not work for others unless it is absolutely necessary. +year
 (Z) $111 +balance
+1
