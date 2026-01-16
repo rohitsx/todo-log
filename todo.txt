@@ -1,7 +1,5 @@
-(A) migrate ledgify to firebase +today
-(B) Make one reel for EaseYou +today
-(C) Improve Easeyou SEO and store listing. +today
 (X) Build one software that can make money on own. +year
 (Y) This is the time to build, not work for others unless it is absolutely necessary. +year
-(Z) $111 +balance
 1
+(A) setup good env mangement tool
+(B) Setup Repli AI

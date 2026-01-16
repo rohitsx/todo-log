@@ -10,3 +10,7 @@ x 2026-01-09 meeting at 1 pm
 x 2026-01-09 Fix payment on EaseYou. +today
 x 2026-01-09 Add EaseYou onboarding tutorial +today
 x 2026-01-09 Read something helpful +today
+x 2026-01-16 migrate ledgify to firebase +today
+x 2026-01-16 Make one reel for EaseYou +today
+x 2026-01-16 Improve Easeyou SEO and store listing. +today
+x 2026-01-16 $111 +balance
